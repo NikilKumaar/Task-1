@@ -7,7 +7,7 @@ This repository consists of two activities.
 1. Creating a blog for difference between HTTP 1.1 vs HTTP 2.
    
     - Link for the blog [CLICK HERE](https://medium.com/@nikilnike666/difference-between-http-1-1-vs-http-2-7c5708f0bdb2)
-    -In this blog, we discussed about difference between HTTP 1.1 vs HTTP 2
+    - In this blog, we discussed about difference between HTTP 1.1 vs HTTP 2
 
 2. Creating a blog for Objects and its internal representation in JavaScript.
    
